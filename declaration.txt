@@ -1,0 +1,2 @@
+original diff_gaussian_rasterization module of MonoGS
+no semantic feature rendering
